@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Pages -->
   <url>
-    <loc>https://wilfex/</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -16,73 +16,73 @@
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://wilfex/blogs/ffmpeg-at-meta</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/ffmpeg-at-meta</loc>
     <lastmod>2026-03-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/the-search-bar-is-getting-smarter</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/the-search-bar-is-getting-smarter</loc>
     <lastmod>2025-02-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/i-built-ai-chatbot-for-kids</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/i-built-ai-chatbot-for-kids</loc>
     <lastmod>2025-02-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/demystifying-buffers-nodejs</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/demystifying-buffers-nodejs</loc>
     <lastmod>2025-02-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/postgre-sql-read-replicas</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/postgre-sql-read-replicas</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/infrastructure-optimization</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/infrastructure-optimization</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/production-ready-infrastructure</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/production-ready-infrastructure</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/deployment-handbook</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/deployment-handbook</loc>
     <lastmod>2025-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/rag-retrieval-augmented-generation-day4</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/rag-retrieval-augmented-generation-day4</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/agentic-ai-revolution-day3</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/agentic-ai-revolution-day3</loc>
     <lastmod>2025-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/mastering-ai-prompting-day2</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/mastering-ai-prompting-day2</loc>
     <lastmod>2025-01-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://wilfex/blogs/genai-fundamentals-day1</loc>
+    <loc>https://wilfex-software-engineer-portfolio.vercel.app/blogs/genai-fundamentals-day1</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://wilfex.com/sitemap.xml
+Sitemap: https://wilfex-software-engineer-portfolio.vercel.app/sitemap.xml

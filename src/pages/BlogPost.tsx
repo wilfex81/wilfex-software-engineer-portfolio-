@@ -48,14 +48,14 @@ const BlogPost: React.FC = () => {
           <meta name="description" content={blog.description} />
           <meta name="author" content={blog.author} />
           <meta name="robots" content="index, follow" />
-          <link rel="canonical" href={`https://wilfex.com/blogs/${slug}`} />
+          <link rel="canonical" href={`https://wilfex-software-engineer-portfolio.vercel.app/blogs/${slug}`} />
 
           {/* Open Graph */}
           <meta property="og:type" content="article" />
-          <meta property="og:url" content={`https://wilfex.com/blogs/${slug}`} />
+          <meta property="og:url" content={`https://wilfex-software-engineer-portfolio.vercel.app/blogs/${slug}`} />
           <meta property="og:title" content={blog.title} />
           <meta property="og:description" content={blog.description} />
-          <meta property="og:image" content="https://wilfex.com/wilfex.jpeg" />
+          <meta property="og:image" content="https://wilfex-software-engineer-portfolio.vercel.app/wilfex.jpeg" />
           <meta property="og:site_name" content="Wilfex Kipchirchir" />
           <meta property="article:author" content={blog.author} />
           <meta property="article:published_time" content={blog.date} />
@@ -63,10 +63,10 @@ const BlogPost: React.FC = () => {
 
           {/* Twitter */}
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:url" content={`https://wilfex.com/blogs/${slug}`} />
+          <meta name="twitter:url" content={`https://wilfex-software-engineer-portfolio.vercel.app/blogs/${slug}`} />
           <meta name="twitter:title" content={blog.title} />
           <meta name="twitter:description" content={blog.description} />
-          <meta name="twitter:image" content="https://wilfex.com/wilfex.jpeg" />
+          <meta name="twitter:image" content="https://wilfex-software-engineer-portfolio.vercel.app/wilfex.jpeg" />
           <meta name="twitter:creator" content="@wilfex" />
 
           {/* JSON-LD Article Schema */}
@@ -79,21 +79,21 @@ const BlogPost: React.FC = () => {
               "author": {
                 "@type": "Person",
                 "name": blog.author,
-                "url": "https://wilfex.com"
+                "url": "https://wilfex-software-engineer-portfolio.vercel.app"
               },
               "publisher": {
                 "@type": "Person",
                 "name": "Wilfex Kipchirchir",
-                "url": "https://wilfex.com"
+                "url": "https://wilfex-software-engineer-portfolio.vercel.app"
               },
               "datePublished": blog.date,
               "dateModified": blog.date,
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": `https://wilfex.com/blogs/${slug}`
+                "@id": `https://wilfex-software-engineer-portfolio.vercel.app/blogs/${slug}`
               },
               "keywords": blog.tags.join(", "),
-              "image": "https://wilfex.com/wilfex.jpeg"
+              "image": "https://wilfex-software-engineer-portfolio.vercel.app/wilfex.jpeg"
             })}
           </script>
         </Helmet>

@@ -26,22 +26,22 @@ const Blogs: React.FC = () => {
         <title>Blog | Wilfex Kipchirchir - AI, Software Engineering & Tech</title>
         <meta name="description" content="Exploring the frontiers of AI, software engineering, and the future of tech. Read tutorials on GenAI, Node.js, Python, cloud infrastructure, and more." />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://wilfex.com/blogs" />
+        <link rel="canonical" href="https://wilfex-software-engineer-portfolio.vercel.app/blogs" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://wilfex.com/blogs" />
+        <meta property="og:url" content="https://wilfex-software-engineer-portfolio.vercel.app/blogs" />
         <meta property="og:title" content="Blog | Wilfex Kipchirchir" />
         <meta property="og:description" content="Exploring the frontiers of AI, software engineering, and the future of tech." />
-        <meta property="og:image" content="https://wilfex.com/wilfex.jpeg" />
+        <meta property="og:image" content="https://wilfex-software-engineer-portfolio.vercel.app/wilfex.jpeg" />
         <meta property="og:site_name" content="Wilfex Kipchirchir" />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:url" content="https://wilfex.com/blogs" />
+        <meta name="twitter:url" content="https://wilfex-software-engineer-portfolio.vercel.app/blogs" />
         <meta name="twitter:title" content="Blog | Wilfex Kipchirchir" />
         <meta name="twitter:description" content="Exploring the frontiers of AI, software engineering, and the future of tech." />
-        <meta name="twitter:image" content="https://wilfex.com/wilfex.jpeg" />
+        <meta name="twitter:image" content="https://wilfex-software-engineer-portfolio.vercel.app/wilfex.jpeg" />
         <meta name="twitter:creator" content="@wilfex" />
 
         {/* JSON-LD Blog Schema */}
@@ -51,11 +51,11 @@ const Blogs: React.FC = () => {
             "@type": "Blog",
             "name": "Wilfex Kipchirchir's Blog",
             "description": "Exploring the frontiers of AI, software engineering, and the future of tech",
-            "url": "https://wilfex.com/blogs",
+            "url": "https://wilfex-software-engineer-portfolio.vercel.app/blogs",
             "author": {
               "@type": "Person",
               "name": "Wilfex Kipchirchir",
-              "url": "https://wilfex.com"
+              "url": "https://wilfex-software-engineer-portfolio.vercel.app"
             }
           })}
         </script>
