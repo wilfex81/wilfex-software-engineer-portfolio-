@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#333333;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <circle cx="256" cy="256" r="256" fill="url(#grad1)" />
-  <path d="M156 356 V 156 L 256 256 L 356 156 V 356" stroke="white" stroke-width="40" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 680">
+  <rect x="140" y="140" width="400" height="400" rx="88" fill="#0f0f0f"/>
+  <circle cx="260" cy="340" r="28" fill="#5DCAA5"/>
+  <circle cx="340" cy="260" r="28" fill="#7F77DD"/>
+  <circle cx="420" cy="340" r="28" fill="#5DCAA5"/>
+  <circle cx="340" cy="420" r="28" fill="#7F77DD"/>
+  <line x1="282" y1="326" x2="318" y2="274" stroke="#5DCAA5" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  <line x1="362" y1="274" x2="398" y2="326" stroke="#7F77DD" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  <line x1="398" y1="354" x2="362" y2="406" stroke="#5DCAA5" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  <line x1="282" y1="354" x2="318" y2="406" stroke="#7F77DD" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="260" cy="340" r="14" fill="#0f0f0f"/>
+  <circle cx="340" cy="260" r="14" fill="#0f0f0f"/>
+  <circle cx="420" cy="340" r="14" fill="#0f0f0f"/>
+  <circle cx="340" cy="420" r="14" fill="#0f0f0f"/>
 </svg>
