@@ -23,7 +23,7 @@ const Projects: React.FC = () => {
     {
       title: "APEXSYNC",
       description:
-        "A financial management system for Mexican SMEs, built as a dual data engineering and software engineering portfolio project combining a medallion-architecture data pipeline with a Django REST API platform.",
+        "A financial management platform for Mexican SMEs, designed as a software engineering project that blends API development, data pipelines, analytics, and compliance automation into a maintainable architecture.",
       techStack: [
         "Django",
         "DRF",
@@ -36,9 +36,9 @@ const Projects: React.FC = () => {
       ],
       liveLink: "https://github.com/wilfex81/APEXsYNC#apexsync",
       clientMessage:
-        "A deliberate architecture for compliance, analytics, and modernization without the weight of a full ERP.",
+        "A deliberate system design for compliance, forecasting, and operational clarity without the overhead of an enterprise ERP.",
       longDescription:
-        "APEXSYNC is a financial management system for Mexican SMEs, designed as a portfolio project that demonstrates both data engineering and software engineering. It combines a medallion-architecture pipeline (ingestion → Bronze → Silver → Gold), orchestrated with Airflow and transformed with dbt, with a Django REST API layer exposing predictive analytics, data normalization, and a versioned, hot-swappable tax compliance engine. The system avoids the complexity of a traditional ERP and treats tax rules as versioned data rather than embedded code, giving the platform a clear audit trail and monthly update path without redeploying the application.",
+        "APEXSYNC is a financial management system for Mexican SMEs, built as a software engineering portfolio project that combines backend architecture, analytics services, and operational automation. It uses a medallion data pipeline (ingestion → Bronze → Silver → Gold), orchestrated with Airflow and transformed with dbt, alongside a Django REST API layer that exposes predictive analytics, normalization workflows, and a versioned tax compliance engine. The design intentionally avoids the complexity of a traditional ERP by treating tax rules as first-class data, keeping logic auditable, testable, and maintainable while supporting monthly regulatory updates without application redeploys.",
       rating: 5,
     },
   ];
@@ -60,7 +60,7 @@ const Projects: React.FC = () => {
             Featured Project
           </h2>
           <p className="max-w-2xl mx-auto text-muted-foreground leading-relaxed">
-            A single project that brings together data engineering, analytics, and financial compliance in one production-ready architecture.
+            A software engineering portfolio project that combines API design, analytics services, compliance workflows, and scalable data processing in one architecture.
           </p>
         </div>
 
