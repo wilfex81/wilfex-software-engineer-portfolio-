@@ -9,7 +9,6 @@ interface ProjectCardProps {
   techStack: string[];
   index: number;
   liveLink?: string;
-  clientMessage?: string;
   longDescription?: string;
   rating?: number;
 }
@@ -20,7 +19,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   techStack, 
   index,
   liveLink,
-  clientMessage,
   longDescription,
   rating = 0
 }) => {
@@ -145,16 +143,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
               <h3 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-3">About</h3>
               <p className="text-foreground/90 leading-relaxed text-base">{longDescription || description}</p>
             </div>
-            
-            {/* Client Message */}
-            {clientMessage && (
-              <div>
-                <h3 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-3">Client Feedback</h3>
-                <div className="bg-muted/50 p-4 rounded-lg border-l-4 border-primary/20 italic text-muted-foreground">
-                  "{clientMessage}"
-                </div>
-              </div>
-            )}
             
             {/* Tech Stack */}
             <div>

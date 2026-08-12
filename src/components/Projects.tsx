@@ -83,7 +83,6 @@ const Projects: React.FC = () => {
                 techStack={project.techStack}
                 index={index}
                 liveLink={project.liveLink}
-                clientMessage={project.clientMessage}
                 longDescription={project.longDescription}
                 rating={project.rating}
               />
